@@ -27,3 +27,6 @@ else:
 
 # showing results
 st.markdown(f'### Largest number is {ans}')
+
+st.markdown('### Made by Satvik Chandrakar')
+st.markdown('### Roll no : 21f1000344')
